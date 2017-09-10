@@ -1,0 +1,31 @@
+{
+  "name": "mean-ang4",
+  "version": "1.0.0",
+  "description": "MEAN stack with Angular 4",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balwant-singh/mean-ang4.git"
+  },
+  "keywords": [
+    "MEAN",
+    "stack",
+    "Angular",
+    "4",
+    "Application"
+  ],
+  "author": "balwant-singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balwant-singh/mean-ang4/issues"
+  },
+  "homepage": "https://github.com/balwant-singh/mean-ang4#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.10"
+  }
+}
